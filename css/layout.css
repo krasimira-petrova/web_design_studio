@@ -1,0 +1,16 @@
+.site-wrapper {
+	max-width: 75rem;
+	margin: 0 auto;
+}
+
+.site-media img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.site {
+	background-image: url("https://source.unsplash.com/wGIvp6HWjY8");
+	background-repeat: repeat-y;
+	background-size: 100% 100%;
+}
